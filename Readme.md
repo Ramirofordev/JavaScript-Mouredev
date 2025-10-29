@@ -2,3 +2,7 @@
 
 El fin de este repositorio es documentar todo el **aprendizaje obtenido** en mi cuenta de GitHub y practicar lo aprendido en el curso de Git.
 
+## Datos importantes acerca de JS:
+- Segun sus buenas practicas, hay que nombras los archivos con separaciones "-" en vez de snake_case.
+- Para mostrar mensajes en pantalla usaremos el comando *"console.log"*
+- Para hacer comentario en Js utilizaremos la sintaxis de: **//**
