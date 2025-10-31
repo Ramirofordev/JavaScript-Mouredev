@@ -23,3 +23,4 @@ Todos los lenguajes de programacion comparten los mismos fundamentos, lo que sue
 2. *Sets*
 > Los sets o tambien conocidas tuplas son un tipo de "listas" las cuales tienen orden. Sin embargo, su principal diferencia con los arrays es que estas no permiten la integracion de dos datos exactamente iguales. Ademas, de que no tiene un indice de donde estan sus elementos, ya que solo hay uno de cada uno.
 3. *Maps*
+> La estrucutra de datos map o mejor conocida como "Diccionario", nos permite almacenar pares de clave-valor. Las claves pueden ser de cualquier tipo, esto hace que los Maps sean muy flexibles y robustos.
