@@ -56,4 +56,4 @@ La forma para escribir funciones en JS es con la sintaxis "function <nombreDeLaF
 * Lo mas destacado dentro de las funciones en JS o mejor dicho lo unico diferente a Python son dos cosas:
     * Las *"arrows functios"* que son una forma de redactar funciones de una manera mas simplificada, su sintaxis es: "variable =(<nombreDelParametro> => utilidad o operacion que necesite hacer la funcion).
 
-    * Y la funcion **forEach** la cual nos permite recorrer directamente los elementos de un objeto iterable *(arrays, sets , maps, etc.)*.
+    * Y la funcion **forEach** la cual nos permite recorrer directamente los elementos de un objeto iterable y ejecutar funciones en cada una de ellas *(arrays, sets , maps, etc.)*.
