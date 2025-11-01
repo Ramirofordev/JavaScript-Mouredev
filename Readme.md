@@ -50,8 +50,8 @@ Ademas, debemos de tener en cuenta el control de bucles:
 ### Funciones
 Nos permiten agrupar bloques de codigo reutilizables, aquellos que nos ayudan a realizar tareas especificas de manera eficiente y organizada. Asi podremos escribir codigo modular, mas limpio y facil de mantener.
 
-[!NOTE]
-La forma para escribir funciones en JS es con la sintaxis "function <nombreDeLaFuncion>"
+>[!NOTE]
+>La forma para escribir funciones en JS es con la sintaxis "function <nombreDeLaFuncion>"
 
 * Lo mas destacado dentro de las funciones en JS o mejor dicho lo unico diferente a Python son dos cosas:
     * Las *"arrows functios"* que son una forma de redactar funciones de una manera mas simplificada, su sintaxis es: "variable =(<nombreDelParametro> => utilidad o operacion que necesite hacer la funcion).
