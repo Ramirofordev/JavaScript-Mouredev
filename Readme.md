@@ -47,3 +47,13 @@ Ademas, debemos de tener en cuenta el control de bucles:
 >> *Break:* Termina el bucle antes de tiempo cuando se cumple una condicion
 >> *Continue:* Salta la iteracion actual y pasa a la siguiente, util para omitir ciertos valroes dentro del bucle.
 
+### Funciones
+Nos permiten agrupar bloques de codigo reutilizables, aquellos que nos ayudan a realizar tareas especificas de manera eficiente y organizada. Asi podremos escribir codigo modular, mas limpio y facil de mantener.
+
+[!NOTE]
+La forma para escribir funciones en JS es con la sintaxis "function <nombreDeLaFuncion>"
+
+* Lo mas destacado dentro de las funciones en JS o mejor dicho lo unico diferente a Python son dos cosas:
+    * Las *"arrows functios"* que son una forma de redactar funciones de una manera mas simplificada, su sintaxis es: "variable =(<nombreDelParametro> => utilidad o operacion que necesite hacer la funcion).
+
+    * Y la funcion **forEach** la cual nos permite recorrer directamente los elementos de un objeto iterable *(arrays, sets , maps, etc.)*.
